@@ -1,0 +1,1 @@
+Cohere_API_KEY="NGdYfDrRq5vPSBGruYXBqeGlhqWbzpEWibcQX9e7"
